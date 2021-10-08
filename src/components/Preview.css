@@ -1,0 +1,42 @@
+.prev{
+    margin-top: 4vh;
+    color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.line{
+    border-top:1px solid black;
+    padding:0;
+    margin:0;
+    margin-top:1vh;
+}
+
+.k{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.k{
+    border:0px solid black;
+    display: flex;
+    justify-content: center;
+    padding:5px;
+    height: auto;
+    /* text-overflow: hidden;
+    overflow-x: hidden; */
+}
+
+@media  screen and (max-width:500px) {
+    .prevT{
+        display: flex;
+        justify-content: center;
+        margin:0 auto;
+        height: auto;
+    }
+    
+}
+
+.cplalrt{
+    display: none;
+}

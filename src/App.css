@@ -1,15 +1,4 @@
-.container {
-  width:100vw;
-  text-align: center;
-}
-.container , nav{
-  font-size:30px;
-  color:red;
-  font-weight:bold;
-  font-style: italic;
-}
-h1{
-  font-weight: bolder;
-  color:rgba(31, 39, 77, 0.431);
-
+* {
+   margin: 0;
+   padding: 0;
 }

@@ -1,0 +1,42 @@
+li{
+    list-style: none;
+    margin:0 1vw;
+}
+
+.Nav{
+    height: 40px;
+    display:flex;
+    position: sticky;
+    background: #1a2a6c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    top:0px;
+}
+
+.logo{
+    width:50%;
+    padding-left:1vw;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    
+}
+
+.List{
+    width:50%;
+    display:flex;
+    justify-content: right;
+    align-items: center;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+    color:rgb(37, 3, 9);
+}
+
+p a{
+    font-family: fantasy;
+    color: rgb(1, 51, 1);
+    font-weight: bold;
+}

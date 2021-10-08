@@ -1,0 +1,26 @@
+.area{
+    border:2px solid black;
+    margin-top: 0;
+    width:100%;
+    padding:2%;
+}
+.container{
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap;
+
+}
+
+.vht{
+    height:50vh;
+}
+.heading{
+    margin-top: auto;
+    margin-bottom:auto;
+    font-family: fantasy;
+    color:whitesmoke;
+    
+}
+.box{
+    background-color: rgb(229, 248, 229);
+}
